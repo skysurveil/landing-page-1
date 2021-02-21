@@ -1,0 +1,69 @@
+.header {
+  background: #8FB8DE;
+  text-align: center;
+  padding: 15px;
+}
+
+.container {
+  width: 100%;
+  background: #FFFFFF;
+  padding: 0px;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background: #F79256;
+  text-align: center;
+}
+
+.right {
+  width: 50%;
+  float: right;
+  /* background: #1D4E89; */
+}
+
+.footer {
+  background: #9A94BC;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  padding-top: 3px;
+}
+
+h2 {
+  background: #fff333;
+}
+
+body {
+  background: #CDF7F6;
+}
+
+#left-washing-machine {
+  height: 300px;
+  max-width: 50%;
+  max-height: 20%;
+}
+
+#right-washing-machine {
+  /* height: 300px; */
+  height: 300px;
+  max-width: 50%;
+  max-height: 20%;
+}
+
+#product-title {
+  font-weight: bold;
+  text-align: center;
+}
+
+#product-description {
+  padding: 10px;
+  text-align: justify;
+  font-weight: normal;
+  text-indent: 40px;
+}
